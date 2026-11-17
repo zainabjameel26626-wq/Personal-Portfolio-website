@@ -4,10 +4,6 @@ A responsive personal portfolio website built with HTML5, CSS3, Bootstrap 5.3 an
 
 **Live demo:** https://zainabjameel26626-wq.github.io/Personal-Portfolio-website/
 
-## Screenshots
-
-<!-- Drag your screenshots here while editing this file on GitHub -->
-
 ## Features
 - Responsive layout that works on phones, tablets and desktops
 - Light and dark themes
